@@ -66,7 +66,7 @@ nnoremap <silent> <C-f> :Files<CR>
 " let g:alduin_Shout_Aura_Whisper = 1
 " colorscheme alduin
 "
-colorscheme peachpuff
+colorscheme rdark-terminal2
 highlight Comment ctermfg=green
 
 let g:airline_left_sep = ''
